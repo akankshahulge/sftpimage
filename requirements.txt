@@ -1,0 +1,13 @@
+awscli
+requests
+thrift_sasl
+thrift
+datetime
+Path
+pandas
+boto3
+pysftp==0.2.8
+pyspark
+pyhive
+thrift_sasl
+sasl
